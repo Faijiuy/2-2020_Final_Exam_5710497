@@ -1,0 +1,11 @@
+[
+  {
+    "createdAt": "2021-02-01",
+    "id": 1,
+    "name": "John",
+    "phoneNumber": "081-xxxxxxx",
+    "arrivalTime": "14:00",
+    "departureTime": "16:00",
+    "reason": "Business"
+  }
+]

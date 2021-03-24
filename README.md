@@ -1,3 +1,14 @@
+# Owner Of this Project
+
+Name: Apitsara Choppradit
+ID: 5710497
+
+# Features of this Project
+
+Read Document: Done. The application can get the request data from FireStore and views as table.
+Create Document: Done. The application can add a new request to FireStore.
+Delete Document: Done. The application can delete the request from FireStore.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
